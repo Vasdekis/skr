@@ -1,0 +1,13 @@
+---
+author:
+title:
+year:
+image_url:
+caption:
+license_url:
+license_text:
+categories:
+- 
+tags:
+- 
+---
